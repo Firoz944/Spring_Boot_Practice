@@ -1,5 +1,5 @@
 package com.CURDPractice.controller;
 
-public class abc {
+public class abc123 {
 
 }
